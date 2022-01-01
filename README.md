@@ -20,11 +20,11 @@ Subscribe to my [newsletter](http://eepurl.com/huGLT5) - The latest updates in A
 
 *Tag me on **Twitter** [@Whats_AI](https://twitter.com/Whats_AI) or **LinkedIn** [@Louis (What's AI) Bouchard](https://www.linkedin.com/in/whats-ai/) if you share the list!*
 
-<!-- ### Watch a complete 2020 rewind in 15 minutes
+### Watch the 2021 CV rewind
 
-[![Watch the video](https://imgur.com/xzZT1ll.png)](https://youtu.be/DHBclF-8KwE)
+[<img src="https://imgur.com/BbMO7nn.png" width="512"/>](https://youtu.be/8bHzytU1SeM)
 
---- -->
+----
 
 Missed last year? Check this out: [2020: A Year Full of Amazing AI papers- A Review](https://github.com/louisfb01/best_AI_papers_2021)
 
