@@ -26,7 +26,7 @@ Subscribe to my [newsletter](http://eepurl.com/huGLT5) - The latest updates in A
 
 ----
 
-Missed last year? Check this out: [2020: A Year Full of Amazing AI papers- A Review](https://github.com/louisfb01/best_AI_papers_2021)
+Missed last year? Check this out: [2020: A Year Full of Amazing AI papers- A Review](https://github.com/louisfb01/Best_AI_paper_2020)
 
 ----
 
@@ -43,7 +43,7 @@ Missed last year? Check this out: [2020: A Year Full of Amazing AI papers- A Rev
 ### If you are interested in AI research, here is another great repository for you:
 A curated list of the latest breakthroughs in AI by release date with a clear video explanation, link to a more in-depth article, and code.
 
-[2021: A Year Full of Amazing AI papers- A Review](https://github.com/louisfb01/best_AI_paper_2021)
+[2021: A Year Full of Amazing AI papers- A Review](https://github.com/louisfb01/best_AI_papers_2021)
 
 ----
 
